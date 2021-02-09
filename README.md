@@ -23,3 +23,8 @@ Pretty self explanatory Files.zip
 
 # **Final Words**
 Don't sell a fucking converter
+
+# **Tools Used**
+- https://github.com/dnSpy/dnSpy
+- https://cyberpanel.net/docs/installing-cyberpanel/
+- https://internetbs.net/
